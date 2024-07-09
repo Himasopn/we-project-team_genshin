@@ -1,4 +1,4 @@
-![](https://telegra.ph/file/1cade4c8ca3aa1f99a7f4.jpg)
-
-
 **WELCOME TO OUR PROJECT** 🌟
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Capriola&size=40&duration=4000&pause=450&color=F70069&background=FFFFAA00&center=true&random=false&width=600&height=100&lines=WELCOME+TO+OUR+PROJECT+!; TEAM: GENSHIN" />
+</p>
