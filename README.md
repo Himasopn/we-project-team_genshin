@@ -37,3 +37,9 @@ Nuclear power plants are a controversial topic, with strong arguments on both si
 * **Nuclear waste:** Nuclear power plants produce radioactive waste that must be safely stored for thousands of years. There is currently no permanent solution for nuclear waste disposal.
 * **Safety risks:** The potential for catastrophic accidents, such as the Chernobyl and Fukushima meltdowns, is a major concern.
 * **Nuclear proliferation:** The technology used in nuclear power plants can also be used to develop nuclear weapons.
+
+
+<h1 align="center">wait!<br></h1>
+<p align="center">
+<img src="https://tenor.com/bmfPL.gif" alt="animated" width="540" height="280" />
+</p>
