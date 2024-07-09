@@ -3,7 +3,7 @@
 </p>
 
 
-<h1 align="center">ꪶdec-<br></h1>
+<h1 align="center"> 🌟NUCLEAR POWER PLANT🌟<br></h1>
 <p align="center">
-<img src="https://telegra.ph/file/55281dd1851fd307c1339.mp4" alt="animated" width="540" height="280" />
-</p>
+
+![](https://telegra.ph/file/bbd5506b1c56def046fa4.jpg)
