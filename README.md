@@ -51,3 +51,6 @@ Besides generating electricity, there are some other potential uses of nuclear p
 * **Hydrogen production:**  Nuclear power can be used to produce hydrogen gas. Hydrogen is a clean-burning fuel that can be used in cars and other vehicles. 
 * **District heating:**  The heat from nuclear power plants can be used to heat homes and businesses in nearby communities. This can help to reduce reliance on fossil fuels for heating. 
 * **Industrial processes:**  The high heat from nuclear power plants can be used for industrial processes such as metal refining and chemical production.
+
+
+![](https://telegra.ph/file/55281dd1851fd307c1339.mp4)
