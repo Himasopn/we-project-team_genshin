@@ -9,7 +9,7 @@
 ![](https://telegra.ph/file/bbd5506b1c56def046fa4.jpg)
 
 
-(𝙒𝙃𝘼𝙏 𝙄𝙎 𝙉𝙐𝘾𝙇𝙀𝘼𝙍 𝙋𝙊𝙒𝙀𝙍 𝙋𝙇𝘼𝙉𝙏?)
+## 𝙒𝙃𝘼𝙏 𝙄𝙎 𝙉𝙐𝘾𝙇𝙀𝘼𝙍 𝙋𝙊𝙒𝙀𝙍 𝙋𝙇𝘼𝙉𝙏 ? 
 
 A nuclear power plant (NPP) is a facility that generates electricity from nuclear fission. Nuclear fission is the process of splitting an atom's nucleus into smaller nuclei, releasing a tremendous amount of energy in the form of heat.  
 
