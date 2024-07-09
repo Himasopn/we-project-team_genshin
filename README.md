@@ -81,3 +81,4 @@ Nuclear power is a complex issue with both advantages and disadvantages. It is i
 |---|---|
 | LEADER | SOURAV ROY | 
 | CO-LEADER | ARSIK TANVIR AHEMD | 
+| MEMBER | PRITHI SINGH SAUD |
