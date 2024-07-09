@@ -39,7 +39,4 @@ Nuclear power plants are a controversial topic, with strong arguments on both si
 * **Nuclear proliferation:** The technology used in nuclear power plants can also be used to develop nuclear weapons.
 
 
-<h1 align="center">wait!<br></h1>
-<p align="center">
-<img src="https://tenor.com/bmfPL.gif" alt="animated" width="540" height="280" />
-</p>
+![.](https://telegra.ph/file/55281dd1851fd307c1339.mp4)
