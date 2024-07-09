@@ -53,4 +53,15 @@ Besides generating electricity, there are some other potential uses of nuclear p
 * **Industrial processes:**  The high heat from nuclear power plants can be used for industrial processes such as metal refining and chemical production.
 
 
-![](https://telegra.ph/file/55281dd1851fd307c1339.mp4)
+
+## DISADVANTAGES OF NUCLEAR POWER PLANT 
+
+Here are some of the disadvantages of nuclear power plants:
+
+* **Nuclear waste disposal:**  Nuclear waste is radioactive and can remain dangerous for thousands of years. There is no permanent solution for disposing of nuclear waste, and it is a major concern for the safety of future generations. Currently, nuclear waste is stored in temporary facilities, but a permanent solution is needed.
+* **Risk of accidents:**  Nuclear power plants are complex facilities, and there is always a risk of accidents. The most famous nuclear accidents are Chernobyl and Fukushima, which caused widespread radioactive contamination. Even smaller accidents can have serious consequences for the health of workers and people living nearby.
+* **High cost:**  Nuclear power plants are very expensive to build and maintain. The high cost of nuclear power makes it less competitive with other sources of energy, such as natural gas and renewable energy.
+* **Water consumption:**  Nuclear power plants require a large amount of water to cool the reactor cores. This can be a problem in areas where water is scarce.
+* **Security risks:**  Nuclear power plants are potential targets for terrorists or other criminals. Nuclear material could be used to make nuclear weapons, or a nuclear reactor could be sabotaged to cause a meltdown.
+
+Nuclear power is a complex issue with both advantages and disadvantages. It is important to weigh the risks and benefits carefully before deciding whether or not to use nuclear power.
