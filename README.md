@@ -39,4 +39,15 @@ Nuclear power plants are a controversial topic, with strong arguments on both si
 * **Nuclear proliferation:** The technology used in nuclear power plants can also be used to develop nuclear weapons.
 
 
-![.](https://telegra.ph/file/55281dd1851fd307c1339.mp4)
+## USES OF NUCLEAR POWER PLANT ##
+
+![](https://telegra.ph/file/a2403908b641a85024ef3.jpg)
+
+Nuclear power plants are primarily used for generating electricity. They  use a process called nuclear fission to produce heat, which is then used to create steam that spins turbines to generate electricity. This process doesn't involve burning fossil fuels, so nuclear power plants don't produce greenhouse gases that contribute to climate change.
+
+Besides generating electricity, there are some other potential uses of nuclear power plants:
+
+* **Desalination:**  Nuclear power can be used to generate clean water by desalination. Desalination is the process of removing salt from seawater. This can provide a source of fresh water for drinking and irrigation in areas with limited freshwater resources.
+* **Hydrogen production:**  Nuclear power can be used to produce hydrogen gas. Hydrogen is a clean-burning fuel that can be used in cars and other vehicles. 
+* **District heating:**  The heat from nuclear power plants can be used to heat homes and businesses in nearby communities. This can help to reduce reliance on fossil fuels for heating. 
+* **Industrial processes:**  The high heat from nuclear power plants can be used for industrial processes such as metal refining and chemical production.
