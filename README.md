@@ -67,6 +67,19 @@ Here are some of the disadvantages of nuclear power plants:
 Nuclear power is a complex issue with both advantages and disadvantages. It is important to weigh the risks and benefits carefully before deciding whether or not to use nuclear power.
 
 
+## World Population by Continent
+
+**Note:** Population data is sourced from [Your Data Source]
+
+```json
+{
+  "Africa": 1.43,
+  "Asia": 4.66,
+  "Europe": 0.746,
+  "North America": 0.36,
+  "South America": 0.43,
+  "Oceania": 0.044
+}
 
 
 
